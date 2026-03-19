@@ -1,1 +1,1 @@
-
+echo "Setting up project"
